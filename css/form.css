@@ -1,0 +1,11 @@
+a{text-decoration:none;color:gray;display:block;}
+a:hover{background-color:black;color:white}
+.li2{width:130px;display:inline-block;line-height:30px;text-transform:uppercase;text-align:center;}
+#header{
+	position:fixed;
+background-color:white;
+  height: 10%;
+  width: 100%;
+}
+HTML,BODY{cursor: url("../photoes/mouse1.gif"), auto;}
+A:hover{cursor: url("../photoes/mouse2.gif"), auto;}
